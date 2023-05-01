@@ -11,9 +11,9 @@ U4 74LVC4245 TSSOP-24
 
 X1 有源晶振OSC SMD7050 16.93Mhz
 
-1.25MM 14P
+FFC & FPC Connectors POST PLATED VERT 14P 1.25mm
 
-1.25MM 30P
+FFC & FPC Connectors POST PLATED VERT 30P 1.25mm
 
 注意：注意：注意：需要去除主板上的电池旁边的C53电容
 

@@ -11,9 +11,9 @@ U4 74LVC4245 TSSOP-24
 
 X1 有源晶振OSC SMD7050 16.93Mhz
 
-FFC & FPC Connectors POST PLATED VERT 14P 1.25mm
+POWER 插座14P 1.25mm  （FFC & FPC Connectors POST PLATED VERT 14P 1.25mm）
 
-FFC & FPC Connectors POST PLATED VERT 30P 1.25mm
+CDROM 插座30P 1.25mm  （FFC & FPC Connectors POST PLATED VERT 30P 1.25mm）
 
 注意：注意：注意：需要去除主板上的电池旁边的C53电容
 
@@ -24,3 +24,5 @@ FFC & FPC Connectors POST PLATED VERT 30P 1.25mm
 预留了电容的位置，可以不需要安装， C1/C2：220uf-470uf/10V C3/C4/C5/C6：0.1uf
 
 反面预留了(+5V,D-,D+,GND)接口，可以安装一个USB母座，注意此接口要与2040模块要焊接连线
+
+注意：此板可零时用于GOLDSTAR_GDO101M的使用，请勿长期使用
